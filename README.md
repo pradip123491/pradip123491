@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradip123491&label=Profile%20views&color=0e75b6&style=flat" alt="pradip123491" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pchavda096" target="blank"><img src="https://img.shields.io/twitter/follow/pchavda096?logo=twitter&style=for-the-badge" alt="pchavda096" /></a> </p>
 
-- 🔭 I’m currently working on [Neighbourehood Support Hub](https://github.com/Dhruvbhai9/Neighbourhood_Support_Hub)
+- 🔭 I’m currently working on [DeepFake Detection]
 
 - 👨‍💻 All of my projects are available at [https://github.com/pradip123491?tab=repositories](https://github.com/pradip123491?tab=repositories)
 
